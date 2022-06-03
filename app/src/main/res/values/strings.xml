@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tabuada</string>
+    <string name="imagem_calculadora">Imagem de uma calculadora</string>
+    <string name="texto_apresentacao">Vamos calcular a tabuada. Digite um valor e daremos a você a tabuada do número escolhido!</string>
+    <string name="numero">Digite um número</string>
+    <string name="calcular">calcular</string>
+    <string name="msg_erro">Digite um número.</string>
+    <string name="refazer_calculo">Refazer cálculo</string>
+    <string name="resultado">%s x %s = %s</string>
+</resources>
